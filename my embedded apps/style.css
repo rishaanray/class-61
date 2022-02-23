@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#apps{
+    background-color: rgb(197, 143, 61);
+}
+.line{
+    height: 9px;
+    width: 90px;
+    background-color: blueviolet;
+    margin: 8px auto;
+}
+#game{
+    background-color: aliceblue;
+}
+h1{
+    background-color: aqua;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 300;
+}
